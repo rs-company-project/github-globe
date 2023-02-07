@@ -41,7 +41,7 @@ function init() {
   // Initialize scene, light
   scene = new Scene();
   scene.add(new AmbientLight(0xbbbbbb, 0.3));
-  scene.background = new Color(0x040d21);
+  scene.background = new Color(0x000000);
 
   // Initialize camera, light
   camera = new PerspectiveCamera();
@@ -82,11 +82,11 @@ function init() {
   controls.enableDamping = true;
   controls.dynamicDampingFactor = 0.01;
   controls.enablePan = false;
-  controls.minDistance = 200;
-  controls.maxDistance = 500;
-  controls.rotateSpeed = 0.8;
-  controls.zoomSpeed = 1;
-  controls.autoRotate = false;
+  controls.minDistance = 300;
+  controls.maxDistance = 300;
+  controls.rotateSpeed = 0.6;
+  controls.zoomSpeed = 0.5;
+  controls.autoRotate = true;
 
   controls.minPolarAngle = Math.PI / 3.5;
   controls.maxPolarAngle = Math.PI - Math.PI / 3;
@@ -122,7 +122,7 @@ function initGlobe() {
   setTimeout(() => {
     Globe.arcsData(travelHistory.flights)
       .arcColor((e) => {
-        return e.status ? "#9cff00" : "#FF4000";
+        return e.status ? "#e969d9" : "#6bbbdf";
       })
       .arcAltitude((e) => {
         return e.arcAlt;
@@ -136,13 +136,13 @@ function initGlobe() {
       .arcsTransitionDuration(1000)
       .arcDashInitialGap((e) => e.order * 1)
       .labelsData(airportHistory.airports)
-      .labelColor(() => "#ffcb21")
+      .labelColor(() => "#ffffff")
       .labelDotOrientation((e) => {
         return e.text === "ALA" ? "top" : "right";
       })
-      .labelDotRadius(0.3)
+      .labelDotRadius(0.5)
       .labelSize((e) => e.size)
-      .labelText("city")
+      .labelText("title")
       .labelResolution(6)
       .labelAltitude(0.01)
       .pointsData(airportHistory.airports)

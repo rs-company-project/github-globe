@@ -4,7 +4,7 @@
         {
             "type": "flight",
             "order": 1,
-            "from" : "FRU",
+            "from": "FRU",
             "to": "TAS",
             "flightCode": "HY 778",
             "date": "Feb 14, 2019",
@@ -18,7 +18,7 @@
         {
             "type": "flight",
             "order": 2,
-            "from" : "TAS",
+            "from": "TAS",
             "to": "ICN",
             "flightCode": "HY 551",
             "date": "Feb 15, 2019",
@@ -27,26 +27,12 @@
             "startLng": 69.366666666667,
             "endLat": 37.472222222222,
             "endLng": 126.60833333333,
-            "arcAlt": 0.2 
-        },
-        {
-            "type": "flight",
-            "order": 3,
-            "from" : "ICN",
-            "to": "KUL",
-            "flightCode": "D7 507",
-            "date": "Aug 30, 2019",
-            "status": true,
-            "startLat": 37.472222222222,
-            "startLng": 126.60833333333,
-            "endLat": 3.116666666666,
-            "endLng": 101.7,
-            "arcAlt": 0.2 
+            "arcAlt": 0.2
         },
         {
             "type": "flight",
             "order": 4,
-            "from" : "KUL",
+            "from": "KUL",
             "to": "SIN",
             "flightCode": "TR 453",
             "date": "Oct 15, 2019",
@@ -55,12 +41,12 @@
             "startLng": 101.7,
             "endLat": 1.2916666666667,
             "endLng": 103.85,
-            "arcAlt": 0.04 
+            "arcAlt": 0.04
         },
         {
             "type": "flight",
             "order": 4.5,
-            "from" : "KUL",
+            "from": "KUL",
             "to": "SIN",
             "flightCode": "TR 453",
             "date": "Oct 22, 2019",
@@ -69,12 +55,12 @@
             "startLng": 101.7,
             "endLat": 1.2916666666667,
             "endLng": 103.85,
-            "arcAlt": 0.07 
+            "arcAlt": 0.07
         },
         {
             "type": "flight",
             "order": 5,
-            "from" : "KUL",
+            "from": "KUL",
             "to": "DPS",
             "flightCode": "OD 177",
             "date": "Oct 21, 2019",
@@ -83,26 +69,12 @@
             "startLng": 101.7,
             "endLat": -8.75,
             "endLng": 115.16666666667,
-            "arcAlt": 0.1 
-        },
-        {
-            "type": "flight",
-            "order": 6,
-            "from" : "DPS",
-            "to": "KUL",
-            "flightCode": "OD 325",
-            "date": "Oct 31, 2019",
-            "status": true,
-            "startLat": -8.75,
-            "startLng": 115.16666666667,
-            "endLat": 3.116666666666,
-            "endLng": 101.7,
-            "arcAlt": 0.15 
+            "arcAlt": 0.1
         },
         {
             "type": "flight",
             "order": 7,
-            "from" : "KUL",
+            "from": "KUL",
             "to": "DMK",
             "flightCode": "AK 882",
             "date": "Nov 25, 2019",
@@ -111,12 +83,12 @@
             "startLng": 101.7,
             "endLat": 13.9255,
             "endLng": 100.5923,
-            "arcAlt": 0.1 
+            "arcAlt": 0.1
         },
         {
             "type": "flight",
             "order": 8,
-            "from" : "BKK",
+            "from": "BKK",
             "to": "KJA",
             "flightCode": "S7 6406",
             "date": "Dec 4, 2019",
@@ -125,26 +97,12 @@
             "startLng": 100.7501,
             "endLat": 56.05,
             "endLng": 92.9,
-            "arcAlt": 0.25 
-        },
-        {
-            "type": "flight",
-            "order": 9,
-            "from" : "KJA",
-            "to": "OVB",
-            "flightCode": "S7 5306",
-            "date": "Dec 5, 2019",
-            "status": true,
-            "startLat": 56.05,
-            "startLng": 92.9,
-            "endLat": 55.033333333333,
-            "endLng": 83,
-            "arcAlt": 0.05 
+            "arcAlt": 0.25
         },
         {
             "type": "flight",
             "order": 10,
-            "from" : "OVB",
+            "from": "OVB",
             "to": "FRU",
             "flightCode": "S7 5541",
             "date": "Dec 5, 2019",
@@ -153,12 +111,12 @@
             "startLng": 83,
             "endLat": 42.85,
             "endLng": 74.583333333,
-            "arcAlt": 0.1 
+            "arcAlt": 0.1
         },
         {
             "type": "flight",
             "order": 10.5,
-            "from" : "FRU",
+            "from": "FRU",
             "to": "ALA",
             "flightCode": "KC 110",
             "date": "Mar 8, 2020",
@@ -167,12 +125,12 @@
             "startLng": 74.583333333,
             "endLat": 43.35,
             "endLng": 77.033333333333,
-            "arcAlt": 0.08 
+            "arcAlt": 0.08
         },
         {
             "type": "flight",
             "order": 11,
-            "from" : "ALA",
+            "from": "ALA",
             "to": "ICN",
             "flightCode": "KC 909",
             "date": "Mar 9, 2020",
@@ -181,12 +139,12 @@
             "startLng": 77.033333333333,
             "endLat": 37.472222222222,
             "endLng": 126.60833333333,
-            "arcAlt": 0.2 
+            "arcAlt": 0.2
         },
         {
             "type": "flight",
             "order": 12,
-            "from" : "FRU",
+            "from": "FRU",
             "to": "ALA",
             "flightCode": "KC 110",
             "date": "Mar 12, 2020",
@@ -195,26 +153,12 @@
             "startLng": 74.583333333,
             "endLat": 43.35,
             "endLng": 77.033333333333,
-            "arcAlt": 0.1 
-        },
-        {
-            "type": "flight",
-            "order": 13,
-            "from" : "ALA",
-            "to": "BKK",
-            "flightCode": "KC 931",
-            "date": "Mar 13, 2020",
-            "status": true,
-            "startLat": 43.35,
-            "startLng": 77.033333333333,
-            "endLat": 13.6900,
-            "endLng": 100.7501,
-            "arcAlt": 0.2
+            "arcAlt": 0.1
         },
         {
             "type": "flight",
             "order": 13.5,
-            "from" : "ICN",
+            "from": "ICN",
             "to": "DMK",
             "flightCode": "XJ 703",
             "date": "Mar 19, 2020",
@@ -223,12 +167,12 @@
             "startLng": 126.60833333333,
             "endLat": 13.9255,
             "endLng": 100.5923,
-            "arcAlt": 0.1 
+            "arcAlt": 0.1
         },
         {
             "type": "flight",
             "order": 14,
-            "from" : "DMK",
+            "from": "DMK",
             "to": "ICN",
             "flightCode": "XJ 700",
             "date": "Mar 20, 2020",
@@ -237,12 +181,12 @@
             "startLng": 100.5923,
             "endLat": 37.472222222222,
             "endLng": 126.60833333333,
-            "arcAlt": 0.15 
+            "arcAlt": 0.15
         },
         {
             "type": "flight",
             "order": 14.5,
-            "from" : "DMK",
+            "from": "DMK",
             "to": "ICN",
             "flightCode": "XJ 702",
             "date": "Mar 23, 2020",
@@ -251,12 +195,12 @@
             "startLng": 100.5923,
             "endLat": 37.472222222222,
             "endLng": 126.60833333333,
-            "arcAlt": 0.2 
+            "arcAlt": 0.2
         },
         {
             "type": "flight",
             "order": 15,
-            "from" : "BKK",
+            "from": "BKK",
             "to": "ICN",
             "flightCode": "TG 656",
             "date": "Mar 23, 2020",
@@ -265,8 +209,105 @@
             "startLng": 100.7501,
             "endLat": 37.472222222222,
             "endLng": 126.60833333333,
-            "arcAlt": 0.25 
+            "arcAlt": 0.25
+        },
+        {
+            "type": "flight",
+            "order": 12,
+            "from": "MTS",
+            "to": "SAC",
+            "flightCode": "TG 657",
+            "date": "Mar 23, 2020",
+            "status": true,
+            "startLat": -27.6509431,
+            "startLng": -52.2041494,
+            "endLat": -12.5330487,
+            "endLng": -65.2492504,
+            "arcAlt": 0.1
+        },
+        {
+            "type": "flight",
+            "order": 16,
+            "from": "BRM",
+            "to": "MTS",
+            "flightCode": "TG 657",
+            "date": "Mar 23, 2020",
+            "status": true,
+            "startLat": 52.5065133,
+            "startLng": 13.1445537,
+            "endLat": -12.5330487,
+            "endLng": -65.2492504,
+            "arcAlt": 0.25
+        },
+        {
+            "type": "flight",
+            "order": 18,
+            "from": "SPL",
+            "to": "MTS",
+            "flightCode": "TG 657",
+            "date": "Mar 23, 2020",
+            "status": true,
+            "startLat": -23.6821604,
+            "startLng": -46.8754928,
+            "endLat": -12.5330487,
+            "endLng": -65.2492504,
+            "arcAlt": 0.1
+        },
+        {
+            "type": "flight",
+            "order": 1,
+            "to": "BKK",
+            "from": "ICN",
+            "flightCode": "TG 656",
+            "date": "Mar 23, 2020",
+            "status": false,
+            "endLat": 13.6900,
+            "endLng": 100.7501,
+            "startLat": 37.472222222222,
+            "startLng": 126.60833333333,
+            "arcAlt": 0.25
+        },
+        {
+            "type": "flight",
+            "order": 3,
+            "to": "SAC",
+            "from": "BRM",
+            "flightCode": "TG 657",
+            "date": "Mar 23, 2020",
+            "status": false,
+            "endLat": -27.6509431,
+            "endLng": -52.2041494,
+            "startLat": 52.5065133,
+            "startLng": 13.1445537,
+            "arcAlt": 0.25
+        },
+        {
+            "type": "flight",
+            "order": 2,
+            "to": "NYK",
+            "from": "MTS",
+            "flightCode": "TG 657",
+            "date": "Mar 23, 2020",
+            "status": false,
+            "endLat": 40.6971494,
+            "endLng": -74.2598665,
+            "startLat": -12.5330487,
+            "startLng": -65.2492504,
+            "arcAlt": 0.25
+        },
+        {
+            "type": "flight",
+            "order": 4,
+            "to": "SPL",
+            "from": "NYK",
+            "flightCode": "TG 657",
+            "date": "Mar 23, 2020",
+            "status": false,
+            "endLat": 40.6971494,
+            "endLng": -74.2598665,
+            "startLat": -12.5330487,
+            "startLng": -65.2492504,
+            "arcAlt": 0.1
         }
-        
     ]
 }

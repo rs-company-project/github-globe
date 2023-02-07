@@ -7,7 +7,8 @@
             "country": "Kyrgyzstan",
             "city": "Bishkek",
             "lat": "42.85",
-            "lng": "74.583333333"
+            "lng": "74.583333333",
+            "title": ""
         },
         {
             "text": "TAS",
@@ -15,7 +16,8 @@
             "country": "Uzbekistan",
             "city": "Tashkent",
             "lat": "41.266666666667",
-            "lng": "69.366666666667"
+            "lng": "69.366666666667",
+            "title": ""
         },
         {
             "text": "ALA",
@@ -23,7 +25,8 @@
             "country": "Kazakhstan",
             "city": "Almaty",
             "lat": "43.35",
-            "lng": "75.033333333333"
+            "lng": "75.033333333333",
+            "title": ""
         },
         {
             "text": "ICN",
@@ -31,7 +34,8 @@
             "country": "South Korea",
             "city": "Incheon",
             "lat": "37.472222222222",
-            "lng": "126.60833333333"
+            "lng": "126.60833333333",
+            "title": ""
         },
         {
             "text": "KJA",
@@ -39,7 +43,8 @@
             "country": "Russia",
             "city": "Krasnoyarsk",
             "lat": "56.05",
-            "lng": "92.9"
+            "lng": "92.9",
+            "title": ""
         },
         {
             "text": "OVB",
@@ -47,7 +52,8 @@
             "country": "Russia",
             "city": "Novosibirsk",
             "lat": "55.033333333333",
-            "lng": "83"
+            "lng": "83",
+            "title": ""
         },
         {
             "text": "KUL",
@@ -55,7 +61,8 @@
             "country": "Malaysia",
             "city": "Kuala-Lumpur",
             "lat": "3.11666666666",
-            "lng": "101.7"
+            "lng": "101.7",
+            "title": ""
         },
         {
             "text": "SIN",
@@ -63,7 +70,8 @@
             "country": "Singapore",
             "city": "Singapore",
             "lat": "1.2916666666667",
-            "lng": "103.85"
+            "lng": "103.85",
+            "title": ""
         },
         {
             "text": "DPS",
@@ -71,7 +79,8 @@
             "country": "Indonesia",
             "city": "Denpasar",
             "lat": "-8.75",
-            "lng": "115.16666666667"
+            "lng": "115.16666666667",
+            "title": ""
         },
         {
             "text": "DMK",
@@ -79,7 +88,8 @@
             "country": "Thailand",
             "city": "Bangkok",
             "lat": "13.9255",
-            "lng": "100.5923"
+            "lng": "100.5923",
+            "title": ""
         },
         {
             "text": "BKK",
@@ -87,7 +97,72 @@
             "country": "Thailand",
             "city": "",
             "lat": "13.6900",
-            "lng": "100.7501"
+            "lng": "100.7501",
+            "title": ""
+        },
+
+        {
+            "text": "India",
+            "size": 1.0,
+            "country": "India",
+            "city": "Nova Delhi",
+            "lat": "28.5272803",
+            "lng": "77.0688997",
+            "title": ""
+        },
+        {
+            "text": "SPL",
+            "size": 1.0,
+            "country": "Brasil",
+            "city": "Sao Paulo",
+            "lat": "-23.6821604",
+            "lng": "-46.8754928",
+            "title": ""
+        },
+        {
+            "text": "SAC",
+            "size": 1.0,
+            "country": "Brasil",
+            "city": "Santa Catarina",
+            "lat": "-27.6509431",
+            "lng": "-52.2041494",
+            "title": ""
+        },
+        {
+            "text": "MTS",
+            "size": 1.0,
+            "country": "Brasil",
+            "city": "Mato Grosso",
+            "lat": "-12.5330487",
+            "lng": "-65.2492504",
+            "title": ""
+        },
+        {
+            "text": "NYK",
+            "size": 1.0,
+            "country": "USA",
+            "city": "New York",
+            "lat": "40.6971494",
+            "lng": "-74.2598665",
+            "title": ""
+        },
+        {
+            "text": "RSA",
+            "size": 1.0,
+            "country": "Russia",
+            "city": "Russia",
+            "lat": "49.7392062",
+            "lng": "68.7716801",
+            "title": ""
+        },
+        {
+            "text": "BRM",
+            "size": 1.0,
+            "country": "Alemanha",
+            "city": "Berlim",
+            "lat": "52.5065133",
+            "lng": "13.1445537",
+            "title": ""
         }
     ]
 }
